@@ -23,7 +23,8 @@ dependencies:
   - tabulate=0.8.9
   - pytest
 
-  # Related to the planning componentsA
+  # Related to the planning components
+  - pandas
   - jupyterlab
 
   - pip:
