@@ -1,0 +1,18 @@
+name: combustion
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python==3.8.*
+  - pip
+  - numpy
+  - tqdm
+  - scikit-learn
+  - scipy
+  - ipykernel
+  - nbsphinx
+  - pandas
+  - matplotlib
+  - seaborn
+  - modal
+  - jupyter_core
