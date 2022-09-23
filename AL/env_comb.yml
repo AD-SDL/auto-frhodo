@@ -16,3 +16,4 @@ dependencies:
   - seaborn
   - modal
   - jupyter_core
+  - GPyOpt
