@@ -17,3 +17,5 @@ The repositories dependencies are defined using Anaconda and can be installed wi
 
 conda env create --file environment.yml --force
 ```
+
+Requires use of the "API branch" of Fhrodo: https://github.com/AD-SDL/Frhodo/tree/add_api
