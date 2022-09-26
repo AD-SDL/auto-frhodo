@@ -19,12 +19,13 @@ dependencies:
   - qt=5.12.9
   - qtpy=1.11.2
   - requests=2.27.1
-  - scipy=1.7.3
+  - scipy=1.5.*
   - tabulate=0.8.9
   - pytest
 
   # Related to the planning components
-  - pandas
+  - pandas>=1.4
+  - kombine>=0.8
   - jupyterlab
 
   - pip:
